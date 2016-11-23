@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86527c1a-bd88-4ac0-a01c-e055f0fa1a18" name="safelab" url="http://192.168.1.201">
+        <fileTransfer host="192.168.1.201" port="21" rootFolder="/home/wwwroot/default">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
